@@ -702,6 +702,9 @@ p {
 .social {
     max-width: 400px;
     margin: auto auto auto auto;
+    flex-direction: row;
+    justify-content: space-around;
+    display: flex;
 }
 
 h2 {
